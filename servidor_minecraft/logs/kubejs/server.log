@@ -1,0 +1,71 @@
+[15:57:50] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[15:57:50] [INIT] Loaded plugins:
+[15:57:50] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[15:57:50] [INIT] - net.threetag.palladium.compat.kubejs.PalladiumKubeJSPlugin
+[15:57:52] [INFO] example.js#5: Hello, World! (Loaded server scripts)
+[15:57:52] [INFO] Loaded script server_scripts:example.js in 0.0 s
+[15:57:52] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/ride.js in 0.001 s
+[15:57:52] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/workbench.js in 0.015 s
+[15:57:52] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/color_commands.js in 0.0 s
+[15:57:52] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/server_stuff.js in 0.001 s
+[15:57:52] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/fall.js in 0.0 s
+[15:57:52] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/xp.js in 0.0 s
+[15:57:52] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/behind.js in 0.0 s
+[15:57:52] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/code_hints.js in 0.0 s
+[15:57:52] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/nickname_command.js in 0.0 s
+[15:57:52] [INFO] addonpack_alienevo:kubejs_scripts/hit.js#101: Loaded Java class 'net.minecraft.world.entity.LivingEntity'
+[15:57:52] [INFO] addonpack_alienevo:kubejs_scripts/hit.js#102: Loaded Java class 'net.minecraft.world.entity.decoration.ArmorStand'
+[15:57:52] [INFO] addonpack_alienevo:kubejs_scripts/hit.js#103: Loaded Java class 'net.minecraft.world.entity.projectile.Projectile'
+[15:57:52] [INFO] addonpack_alienevo:kubejs_scripts/hit.js#145: Loaded Java class 'net.minecraft.resources.ResourceKey'
+[15:57:52] [INFO] addonpack_alienevo:kubejs_scripts/hit.js#146: Loaded Java class 'net.minecraft.tags.TagKey'
+[15:57:52] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/hit.js in 0.014 s
+[15:57:52] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/playlist_command.js in 0.01 s
+[15:57:52] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/palladium_properties.js in 0.002 s
+[15:57:52] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/workbench_items.js in 0.001 s
+[15:57:52] [INFO] addonpack_alienevo:kubejs_scripts/attributes.js#1: Loaded Java class 'net.minecraft.world.entity.ai.attributes.Attributes'
+[15:57:52] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/attributes.js in 0.001 s
+[15:57:52] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/pod_loot.js in 0.002 s
+[15:57:52] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/recipes.js in 0.0 s
+[15:57:52] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/level_command.js in 0.001 s
+[15:57:52] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/quick_change.js in 0.003 s
+[15:57:52] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/failsafe.js in 0.002 s
+[15:57:52] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/break_block.js in 0.0 s
+[15:57:52] [INFO] addonpack_alienevo:kubejs_scripts/slam.js#3: Loaded Java class 'net.minecraft.core.particles.DustParticleOptions'
+[15:57:52] [INFO] addonpack_alienevo:kubejs_scripts/slam.js#4: Loaded Java class 'org.joml.Vector3f'
+[15:57:52] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/slam.js in 0.004 s
+[15:57:52] [INFO] Loaded script addonpack_satsu_iron_man_addon:kubejs_scripts/mark_80_drone_quantity.js in 0.001 s
+[15:57:52] [INFO] Loaded script addonpack_satsu_iron_man_addon:kubejs_scripts/command.js in 0.0 s
+[15:57:52] [INFO] Loaded script addonpack_satsu_iron_man_addon:kubejs_scripts/prevent_eat.js in 0.001 s
+[15:57:52] [INFO] Loaded script addonpack_satsu_iron_man_addon:kubejs_scripts/steel_gold_alloy_refined.js in 0.0 s
+[15:57:52] [INFO] Loaded script addonpack_satsu_iron_man_addon:kubejs_scripts/ia/properties.js in 0.0 s
+[15:57:52] [INFO] Loaded script addonpack_satsu_iron_man_addon:kubejs_scripts/ai_color.js in 0.001 s
+[15:57:52] [INFO] Loaded script addonpack_satsu_iron_man_addon:kubejs_scripts/carbon_mesh.js in 0.0 s
+[15:57:52] [INFO] Loaded script addonpack_satsu_iron_man_addon:kubejs_scripts/ia_name.js in 0.001 s
+[15:57:52] [INFO] Loaded script addonpack_satsu_iron_man_addon:kubejs_scripts/steel_ingot.js in 0.001 s
+[15:57:52] [INFO] Loaded script addonpack_satsu_iron_man_addon:kubejs_scripts/string_property_variable_test.js in 0.003 s
+[15:57:52] [INFO] Loaded script addonpack_grave.core:kubejs_scripts/camera.js in 0.001 s
+[15:57:52] [INFO] Loaded script addonpack_grave.core:kubejs_scripts/death_no_armour.js in 0.0 s
+[15:57:52] [INFO] Loaded script addonpack_grave.core:kubejs_scripts/receive_power_selected.js in 0.0 s
+[15:57:52] [INFO] Loaded script addonpack_grave.core:kubejs_scripts/key.js in 0.001 s
+[15:57:52] [INFO] Loaded 36/36 KubeJS server scripts in 0.092 s with 0 errors and 0 warnings
+[15:57:52] [INFO] Scripts loaded
+[15:57:52] [INFO] Initializing recipe event...
+[15:57:53] [INFO] [minecraft:item] Found 647 tags, added 5 objects, removed 0 objects
+[15:57:53] [INFO] [minecraft:block] Found 435 tags, added 14 objects, removed 0 objects
+[15:57:54] [INFO] Processing recipes...
+[15:57:54] [WARN] Failed to parse recipe 'satsu_iron_man_addon:marks/mark_44/main[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[15:57:54] [WARN] Failed to parse recipe 'satsu_iron_man_addon:ark_baterry[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[15:57:54] [WARN] Failed to parse recipe 'satsu_iron_man_addon:armor_place[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[15:57:54] [WARN] Failed to parse recipe 'satsu_iron_man_addon:marks/mark_48/main[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[15:57:54] [WARN] Failed to parse recipe 'satsu_iron_man_addon:steel_gold_ingot[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[15:57:54] [WARN] Failed to parse recipe 'satsu_iron_man_addon:marks/mark_49/main[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[15:57:54] [INFO] Found 2610 recipes in 98.54 ms
+[15:57:54] [INFO] Posted recipe events in 6.848 ms
+[15:57:54] [WARN] Error parsing recipe satsu_iron_man_addon:marks/mark_44/main[minecraft:crafting_shaped]: {"type":"minecraft:crafting_shaped","group":"iron_man","pattern":["CGC","GPG","CGC"],"key":{"G":{"item":"satsu_iron_man_addon:steel_gold_refined_alloy"},"P":{"item":"satsu_iron_man_addon:recipes/mark_44/main"},"C":{"item":"satsu_iron_man_addon:advanced_circuit"}},"result":{"item":"satsu_iron_man_addon:marks/mark_44/bracelet","count":1}}: Unknown item 'satsu_iron_man_addon:recipes/mark_44/main'
+[15:57:54] [WARN] Error parsing recipe satsu_iron_man_addon:armor_place[minecraft:crafting_shaped]: {"type":"minecraft:crafting_shaped","group":"iron_man","pattern":["   "," # ","   "],"key":{"#":{"item":"minecraft:armor_stand"}},"result":{"item":"satsu_iron_man_addon:armor_place","count":1}}: Unknown item 'satsu_iron_man_addon:armor_place'
+[15:57:54] [WARN] Error parsing recipe satsu_iron_man_addon:marks/mark_48/main[minecraft:crafting_shaped]: {"type":"minecraft:crafting_shaped","group":"iron_man","pattern":["CGC","GPG","CGC"],"key":{"G":{"item":"satsu_iron_man_addon:steel_gold_refined_alloy"},"P":{"item":"satsu_iron_man_addon:recipes/mark_48/main"},"C":{"item":"satsu_iron_man_addon:advanced_circuit"}},"result":{"item":"satsu_iron_man_addon:marks/mark_48/bracelet","count":1}}: Unknown item 'satsu_iron_man_addon:recipes/mark_48/main'
+[15:57:54] [WARN] Error parsing recipe satsu_iron_man_addon:steel_gold_ingot[minecraft:crafting_shaped]: {"type":"minecraft:crafting_shaped","group":"iron_man","pattern":["#C ","   ","   "],"key":{"#":{"item":"satsu_iron_man_addon:steel_ingot"},"C":{"item":"minecraft:gold_ingot"}},"result":{"item":"satsu_iron_man_addon:steel_gold_ingot","count":1}}: Unknown item 'satsu_iron_man_addon:steel_gold_ingot'
+[15:57:54] [WARN] Error parsing recipe satsu_iron_man_addon:ark_baterry[minecraft:crafting_shaped]: {"type":"minecraft:crafting_shaped","group":"iron_man","pattern":["CCC","RcR","cRc"],"key":{"R":{"item":"minecraft:redstone"},"c":{"item":"minecraft:iron_ingot"},"C":{"item":"minecraft:copper_ingot"}},"result":{"item":"satsu_iron_man_addon:ark_baterry","count":1}}: Unknown item 'satsu_iron_man_addon:ark_baterry'
+[15:57:54] [WARN] Error parsing recipe satsu_iron_man_addon:marks/mark_49/main[minecraft:crafting_shaped]: {"type":"minecraft:crafting_shaped","group":"iron_man","pattern":["CGC","GPG","CGC"],"key":{"G":{"item":"satsu_iron_man_addon:steel_gold_refined_alloy"},"P":{"item":"satsu_iron_man_addon:recipes/mark_49/main"},"C":{"item":"satsu_iron_man_addon:advanced_circuit"}},"result":{"item":"satsu_iron_man_addon:marks/mark_49/bracelet","count":1}}: Unknown item 'satsu_iron_man_addon:recipes/mark_49/main'
+[15:57:54] [INFO] Added 11 recipes, removed 0 recipes, modified 0 recipes, with 6 failed recipes in 77.16 ms
+[15:58:00] [INFO] Server resource reload complete!
